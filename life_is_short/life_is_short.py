@@ -50,5 +50,3 @@ It is possible to slow time somewhat. I've gotten better at it. Kids help. When 
 It does help too to feel that you've squeezed everything out of some experience. The reason I'm sad about my mother is not just that I miss her but that I think of all the things we could have done that we didn't. My oldest son will be 7 soon. And while I miss the 3 year old version of him, I at least don't have any regrets over what might have been. We had the best time a daddy and a 3 year old ever had.
 
 Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short."""
-
-print(t())
