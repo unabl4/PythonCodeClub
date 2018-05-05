@@ -1,3 +1,5 @@
+# https://codeclub.thorgate.eu/challenges/70
+
 def shortest_way_back(path):
     y,x = 0,0 # initial coordinate
     for direction in path:
