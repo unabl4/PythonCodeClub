@@ -1,3 +1,5 @@
+# https://codeclub.thorgate.eu/challenges/124
+
 def moveTower(n, src, dst, aux, steps=[]):
     if n > 0:
         # move n-1 disks from the starting pole to the middle pole via the ending pole
