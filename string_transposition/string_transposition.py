@@ -1,3 +1,5 @@
+# https://codeclub.thorgate.eu/challenges/92
+
 def transposition(text):
     # remove unsupported (non-alphanumeric) characters
     filtered_text = ''.join([c for c in text if c.isalnum() or c.isspace()])
